@@ -53,7 +53,7 @@ Here is an example using the `YCrCb` color space and HOG parameters of `orientat
 
 #### 2. Explain how you settled on your final choice of HOG parameters.
 
-I tried various combinations of parameters and tried running SVM classifier on it finally. The results were satisfying with following parameters giving test accuracy rate above 98%
+I tried various combinations of parameters and tried running SVM classifier on it.Finally the results were satisfying with following parameters giving test accuracy rate above 98%
 
 color_space = 'YCrCb' 
 orient = 9  
